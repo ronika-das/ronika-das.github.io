@@ -2914,8 +2914,8 @@ p {
 }
 
 .category {
-  text-transform: uppercase;
-  font-weight: 700;
+  /* text-transform: uppercase;  I am currently purusing....*/
+  font-weight: 500;
   color: #9A9A9A;
 }
 
@@ -7171,6 +7171,16 @@ Created using IcoMoon - icomoon.io
   text-transform: uppercase;
 }
 
+
+/* Projects Style */
+.cc-projects .cc-projects-header {
+  padding-top: 60px;
+  padding-right: 0;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+
 /* Education Style */
 .cc-education .h5 {
   margin-bottom: 0;
@@ -7181,6 +7191,8 @@ Created using IcoMoon - icomoon.io
   padding-right: 0;
   text-align: center;
   color: #fff;
+  text-transform: uppercase;
+
 }
 
 /* References Style */
